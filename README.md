@@ -6,4 +6,10 @@ Ainsi, ce projet comporte plusieurs classes: Student, StudentRepository, Student
 
 
 Voici une vidéo démonstrative du test des différents controllers:
-[TP_SpringBoot.webm](https://github.com/LAGHRIDATHASNAE/TP_SpringBoot/assets/148015530/3388d595-d822-4896-aa56-83c8b252e9ed)
+
+
+
+
+
+https://github.com/LAGHRIDATHASNAE/TP_SpringBoot/assets/148015530/19722c5d-8d62-4721-94ef-b7f943e107f6
+
